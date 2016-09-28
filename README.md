@@ -18,7 +18,7 @@ We provide annotations of the topics and perceived trustworthiness of ~12k Airbn
 
 * ``air-hp-experiment.csv``: The experiment result along with the demographic information of the judges.
 
-## BibTex Entry:
+## BibTex Entry
 @inproceedings{ma2017airbnb, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; author={Ma, Xiao and Hancock, Jeff and Lim Mingjie, Kenneth and Naaman, Mor}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; title={Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles}, <br>
