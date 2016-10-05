@@ -20,7 +20,7 @@ We provide annotations of the topics and perceived trustworthiness of ~12k Airbn
 
 ## BibTex Entry
 @inproceedings{ma2017airbnb, <br>
-&nbsp;&nbsp;&nbsp;&nbsp; author={Ma, Xiao and Hancock, Jeff and Lim Mingjie, Kenneth and Naaman, Mor}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; author={Ma, Xiao and Hancock, Jeffery T and Lim Mingjie, Kenneth and Naaman, Mor}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; title={Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; booktitle={Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; series={CSCW '17}, <br>
