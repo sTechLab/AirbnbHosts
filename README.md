@@ -6,7 +6,7 @@ Licensed under [Creative Commons Attribution Share Alike 4.0](http://choosealice
 
 ## Description
 
-We provide annotations of the topics and perceived trustworthiness of ~12k Airbnb host profiles, along with results from an experiment we ran in order to understand how perceived trustworthiness affects preferences. The details how we derived this dataset are described in the paper.
+We provide annotations of the topics and perceived trustworthiness of ~1,200 Airbnb host profiles, along with results from an experiment we ran in order to understand how perceived trustworthiness affects preferences. The details how we derived this dataset are described in the paper.
 
 ## Files
 
