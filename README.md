@@ -19,10 +19,22 @@ We provide annotations of the topics and perceived trustworthiness of ~1,200 Air
 * ``air-hp-experiment.csv``: The experiment result along with the demographic information of the judges.
 
 ## BibTex Entry
-@inproceedings{ma2017airbnb, <br>
-&nbsp;&nbsp;&nbsp;&nbsp; author={Ma, Xiao and Hancock, Jeffery T and Lim Mingjie, Kenneth and Naaman, Mor}, <br>
-&nbsp;&nbsp;&nbsp;&nbsp; title={Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles}, <br>
-&nbsp;&nbsp;&nbsp;&nbsp; booktitle={Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing}, <br>
-&nbsp;&nbsp;&nbsp;&nbsp; series={CSCW '17}, <br>
-&nbsp;&nbsp;&nbsp;&nbsp; year={2017} <br>
-}
+```
+@inproceedings{Ma:2017:SPT:2998181.2998269,
+ author = {Ma, Xiao and Hancock, Jeffery T. and Lim Mingjie, Kenneth and Naaman, Mor},
+ title = {Self-Disclosure and Perceived Trustworthiness of Airbnb Host Profiles},
+ booktitle = {Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},
+ series = {CSCW '17},
+ year = {2017},
+ isbn = {978-1-4503-4335-0},
+ location = {Portland, Oregon, USA},
+ pages = {2397--2409},
+ numpages = {13},
+ url = {http://doi.acm.org/10.1145/2998181.2998269},
+ doi = {10.1145/2998181.2998269},
+ acmid = {2998269},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {airbnb, self-disclosure, sharing economy, social exchange, trustworthiness},
+} 
+```
